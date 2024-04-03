@@ -11,8 +11,7 @@ const elements = {
 // Functions
 function renderRequests(requests) {
 	 elements.table.innerHTML = '';
-
-	const badges = {
+	 const badges = {
 		new: 'badge-danger',
 		inwork: 'badge-warning',
 		complete: 'badge-success',
