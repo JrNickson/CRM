@@ -10,7 +10,7 @@ const elements = {
 
 // Functions
 function renderRequests(requests) {
-	// elements.table.innerHTML = '';
+	 elements.table.innerHTML = '';
 
 	const badges = {
 		new: 'badge-danger',
